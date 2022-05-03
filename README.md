@@ -1,0 +1,2 @@
+# XAML-loader-example
+UmacroのLoaderになるよていのXAML
